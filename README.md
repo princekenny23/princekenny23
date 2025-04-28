@@ -1,6 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there%2C+I'm+Kenny+Kwitonda!;Python+Developer+%7C+Cybersecurity+Analyst+%7C+Computer+Networker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi+there%2C+I'm+Kenny+Kwitonda!;Python+Developer;Cybersecurity+Analyst;Computer+Networker" alt="Typing SVG" />
 
----
 
 # 💻 About Me
 🎓 **Bachelor of Science in Computer Science (Hardware & Networking)** — DMI St. John the Baptist University  
